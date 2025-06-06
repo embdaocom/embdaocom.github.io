@@ -1,0 +1,1 @@
+import{s as t}from"./index.e6ad6c63.js";function s(e){return t({method:"get",url:"/v1api/v2/discover/token_list",params:e})}function i(e){return t({method:"get",url:"/v1api/v3/tokens/treasure",params:e})}export{i as a,s as g};
